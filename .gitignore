@@ -121,3 +121,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/scopes/scope_settings.xml
+.idea/workspace.xml
